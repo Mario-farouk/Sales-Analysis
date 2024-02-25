@@ -1,5 +1,6 @@
 # Sales-Analysis
 # We start by cleaning our data. Tasks during this section include:
+- compine and integrate data 
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
 - Change the type of columns (to_numeric, to_datetime, astype)
